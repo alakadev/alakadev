@@ -19,7 +19,7 @@
 
 ---
 
-<div align="center">
+<div>
 
 ```javascript
                         const alakadev = {
